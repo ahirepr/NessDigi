@@ -1,6 +1,0 @@
-class Normalisation{
-
-public Normalisation()
-   {
-   }
-}
